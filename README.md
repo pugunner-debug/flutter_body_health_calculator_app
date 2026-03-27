@@ -1,6 +1,6 @@
 # Moblie Application by Flutter/Dart
 
-## โปรเจ็กต์แสดงหน้า Splash_Screen, Home, Bmi, Bmr โดยเน้น UI เป็นหลัก 
+## โปรเจ็กต์แสดงหน้า Splash_Screen, About, Bmi, Bmr โดยเน้น UI เป็นหลัก 
 
 <kbd><img width="250" alt="localhost_2337_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/e890ce9e-0ca9-4be9-b417-a10df8024708" /></kbd>
 
