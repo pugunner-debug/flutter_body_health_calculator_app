@@ -1,17 +1,11 @@
-# flutter_body_health_calculator_app
+# Moblie Application by Flutter/Dart
 
-A new Flutter project.
+## โปรเจ็กต์แสดงหน้า Splash_Screen, Home, Bmi, Bmr โดยเน้น UI เป็นหลัก 
 
-## Getting Started
+<kbd><img width="250" alt="localhost_2337_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/e890ce9e-0ca9-4be9-b417-a10df8024708" /></kbd>
 
-This project is a starting point for a Flutter application.
+<kbd><img width="250" alt="localhost_1173_(iPhone 14 Pro Max) (1)" src="https://github.com/user-attachments/assets/7890ec3c-dfde-4be2-8508-13f5b4a8289f" /></kbd>
 
-A few resources to get you started if this is your first Flutter project:
+<kbd><img width="250" alt="localhost_1173_(iPhone 14 Pro Max) (2)" src="https://github.com/user-attachments/assets/717a9bd2-7bb2-4a89-96f4-82e01390c89b" /></kbd>
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<kbd><img width="250" alt="localhost_1173_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/1ebe5567-0431-4d35-86ec-6bb3a36ac289" /></kbd>
